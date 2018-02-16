@@ -36,3 +36,4 @@ audit-argument-checks
 check
 akryum:vue-router2
 akryum:vue
+momentjs:moment
